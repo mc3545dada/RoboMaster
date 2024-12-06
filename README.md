@@ -11,4 +11,6 @@ at chassis,MCU connect 4*M3508&C620(can1,id:1 2 3 4) to control  move and 1*GM60
 at gimbal,MCU connect 1*4310Motor(can1) to control pitch motor ,1*M2006&C610(can1) to Control 17mm provide and 2*M3508&C620(can1) to control 17mm shoot
 
 
-at last,that just a version for training use the elementary device of STM32F407IGHX,so it maybe has lots of bugs and some place which is lack of elegant and well-maintained code
+at last,that just a version for training use the elementary function of STM32F407IGHX,so it maybe has lots of bugs and some place which is lack of elegant and well-maintained code
+
+This is dedicated to commemorate the beginning of mc3545dada's journey into RoboMaster
